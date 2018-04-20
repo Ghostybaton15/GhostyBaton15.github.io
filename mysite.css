@@ -77,7 +77,7 @@ header {
     font-family: arial;
     color: skyblue;
     font-size: 16px;
-    float: right;
+    clear: both;
 }
 .grid {
     display: grid;
