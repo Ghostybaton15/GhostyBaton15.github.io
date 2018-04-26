@@ -106,6 +106,7 @@ header {
     border: 2px;
     height: auto;
     width:100%;
+    border-color: blue;
 }
 .images {
     position: relative;
