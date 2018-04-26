@@ -109,4 +109,5 @@ header {
 }
 .images {
     position: relative;
+    clear: both;
 }
