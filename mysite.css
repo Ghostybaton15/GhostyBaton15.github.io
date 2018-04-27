@@ -109,6 +109,7 @@ header {
     border-color: blue;
 }
 .images {
-    position: relative;
-    clear: both;
+    position: center;
+    left: 400px;
+    right: 400px;
 }
